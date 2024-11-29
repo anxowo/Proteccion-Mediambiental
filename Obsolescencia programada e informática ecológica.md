@@ -1,0 +1,37 @@
+# Obsolescencia programada e informática ecológica
+
+
+
+## ¿Qué es la obsolescia programada? 
+
+La obsolescencia programada es una estrategia de diseño y producción en la que los productos se fabrican deliberadamente con una vida útil limitada, lo que obliga a los consumidores
+a reemplazarlos o repararlos después de un período de tiempopredeterminado.
+
+  #### · ¿Cómo evitar la obsolescencia programada? Hay organismos reguladores que hacen que las empresas que usan esta práctica no puedan abusar de ella. La UE regula esto mediante normativas como la prohibición total, o aportar unas garantías a productos antes de que estos comiencen a fallar. *[EESC](https://www.eesc.europa.eu/sites/default/files/resources/docs/factsheet-es.pdf)*
+  
+  #### · Consecuencias de la obsolescencia programada: Esta además de ser perjudicial para los consumidores ya que provoca el gasto constante en productos que necesitan, como lavadoras, o telefonos, es dañina para el medioambiente dado que al crear más artículos, desecharlos, y crear más, estos gastan nuestros recursos de una forma nada óptima
+ 
+  #### · Solución a la obsolescencia programada: Hacer que los organismos reguladores como la UE tengan normativas más duras contra empresas como Apple, o Samsung, y expandir estos organismos reguladores a Estados Unidos, y Asia
+  
+
+## ¿Qué es la informática ecológica? 
+
+La informática ecológica, también conocida como informática verde o green IT, es una disciplina que busca minimizar el impacto ambiental asociado con las tecnologías de la información 
+y la comunicación (TIC). Su objetivo es lograr que la creación, uso, mantenimiento y disposición de los dispositivos tecnológicos sean más sostenibles, reduciendo el consumo de energía y los residuos electrónicos.
+
+  #### · Pricipales objetivos: 
+  
+    Reducir el consumo energético
+    Disminuir los residuos electrónicos
+    Fomentar prácticas sostenibles en las empresas 
+    Concienciar a los usuarios
+    
+  #### · Beneficios de la informática ecológica: 
+  
+    Económicas
+    Sociales
+    Ambientales
+    
+
+
+
